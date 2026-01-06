@@ -1,31 +1,26 @@
 ---
 
-title: "About David Florian"
+title: "About Emily Simmons"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
-
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+I am a mechanical engineering undergraduate student who has been building sense the age of three. I'm passionate about designing to have an possitive impact and create value.
+* Vanderbilt University (Aug 2025 - Apr 2029)
+  * Bachelor of Engineering
+  * Major: Mechanical Engineering    Minor: Digital Fabrication
+* Durham Accademy High School (Aug 2021 - May 2025)
+  * High School Deploma
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+I have experence operating a wide range of tool used for designing and creating parts, from hand tools to operating skid steers. Some of my relevent skills are:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Manufacturing - CNC, Lathe
+* Electronics, microcontrollers, and soldering
+* Welding
+* Fusion 360
+* Hydraulic and Pneumatic Operations
 
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
