@@ -21,11 +21,11 @@ gallery:
 * **Coustome PCB design for bulk fabrication.** Using a mask stensle and surface mount solder, boards and easy and relitivly cheap to produce.
 
 Bill of Materials*:
-| Component    | Off the Shelf | Coustume |
-| ------------ | ------------- | -------- |
-| 2.7kΩ resistor    | 8x - $0.10  | |
-| 200 resistor | 8x - $0.11     |  |
-| Green LED   | $420    |
+| Component      | Off the Shelf | Coustume |
+| -------------- | ------------- | -------- |
+| 2.7kΩ resistor | 8x - $0.10    |          |
+| 200 resistor   | 8x - $0.11    |          |
+| Green LED      | $420          |          |
 
 *most off the self components were ordered in bulk from Digikey
 
