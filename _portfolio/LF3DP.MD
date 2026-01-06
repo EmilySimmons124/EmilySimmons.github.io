@@ -25,8 +25,8 @@ gallery:
 | Component      | Off the Shelf | Custom |
 | -------------- | ------------- | ------ |
 | [2.7kΩ resistor](https://www.digikey.com/en/products/detail/yageo/RC1206FR-072K7L/728657) | 8× – $0.10    |        |
-| 200Ω resistor  | 8× – $0.11    |        |
-| Green LED      | $4.20         |        |
+| [200Ω resistor](https://www.digikey.com/en/products/detail/yageo/RC1206FR-07200RL/728675)  | 8× – $0.11    |        |
+| [Green LED]      | $4.20         |        |
 
 \*Most off-the-shelf components were ordered in bulk from Digi-Key.
 
