@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "Resedental Lighting Control System"
+excerpt: "A coustum built power electronics for switching lights with a microcontroller/PLC for home automation"
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
@@ -13,12 +13,19 @@ gallery:
 
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Entire house autamation capabilites.** Capable of switching 72 total lights, fans, floor heat, and appliances. High voltage and high current capabilities allow it to switch 120 or 240 volts and up to 25 amps.
+* **High voltage and high current capabilities.** Able to switch up to 120 times a second. By utilizing pulse width moduation in lighting code lights can be dimmed.
+* **Easily installed, safe, and quite.** The PCB is designed to be modular (more terminals can be added by adding another board) and compatable with DIN rail mounts. Additionaly the terminals have plug contacts for ease of wiring and the components are finger safe to prevent shocks. The PCB also has oversized heat sinks for thermal managment, which eliminates the need for a fan. LEDs on the board indicate what lights are switched for ease of dignostics and trouble shooting.
+* **Over 10 million cycles.** A solid state switch allows the lifespan of each light controler to be greater than 10 million switches.
+* **Minimum power surges during switching.** A zero crossing STR minimises power surges when switched.
+* **Coustome PCB design for bulk fabrication.** Using a mask stensle and surface mount solder, boards and easy and relitivly cheap to produce.
+
+
+
+
 
 # CAD Model
-<iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b602811e067813f868a6229?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b602811b5f540c037fd54a7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 <iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b6028118eb2abb5d160a809?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
