@@ -20,14 +20,15 @@ gallery:
 * **Minimum power surges during switching.** A zero crossing STR minimises power surges when switched.
 * **Coustome PCB design for bulk fabrication.** Using a mask stensle and surface mount solder, boards and easy and relitivly cheap to produce.
 
-Bill of Materials*:
-| Component      | Off the Shelf | Coustume |
-| -------------- | ------------- | -------- |
-| 2.7kΩ resistor | 8x - $0.10    |          |
-| 200 resistor   | 8x - $0.11    |          |
-| Green LED      | $420          |          |
+**Bill of Materials**:
 
-*most off the self components were ordered in bulk from Digikey
+| Component      | Off the Shelf | Custom |
+| -------------- | ------------- | ------ |
+| 2.7kΩ resistor | 8× – $0.10    |        |
+| 200Ω resistor  | 8× – $0.11    |        |
+| Green LED      | $4.20         |        |
+
+\*Most off-the-shelf components were ordered in bulk from Digi-Key.
 
 
 
