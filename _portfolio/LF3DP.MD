@@ -20,6 +20,12 @@ gallery:
 * **Minimum power surges during switching.** A zero crossing STR minimises power surges when switched.
 * **Coustome PCB design for bulk fabrication.** Using a mask stensle and surface mount solder, boards and easy and relitivly cheap to produce.
 
+Bill of Materials:
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1 A  | Row 1 B  | Row 1 C  |
+| Row 2 A  | Row 2 B  | Row 2 C  |
+| Row 3 A  | Row 3 B  | Row 3 C  |
 
 
 
