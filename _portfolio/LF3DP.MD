@@ -23,9 +23,9 @@ gallery:
 Bill of Materials*:
 | Component    | Off the Shelf | Coustume |
 | ------------ | ------------- | -------- |
-| 2.7k$$\Omega$$ resistor    | 8x - $0.10  | |
+| 2.7kΩ resistor    | 8x - $0.10  | |
 | 200 resistor | 8x - $0.11     |  |
-| March    | $420    |
+| Green LED   | $420    |
 
 *most off the self components were ordered in bulk from Digikey
 
