@@ -1,6 +1,6 @@
 ---
-title: "Resedental Lighting Control System"
-excerpt: "A coustum built power electronics for switching lights with a microcontroller/PLC for home automation"
+title: "Residential Lighting Control System"
+excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
@@ -13,12 +13,12 @@ gallery:
 
 # Features
 
-* **Entire house autamation capabilites.** Capable of switching 72 total lights, fans, floor heat, and appliances. High voltage and high current capabilities allow it to switch 120 or 240 volts and up to 25 amps.
-* **High voltage and high current capabilities.** Able to switch up to 120 times a second. By utilizing pulse width moduation in lighting code lights can be dimmed.
-* **Easily installed, safe, and quite.** The PCB is designed to be modular (more terminals can be added by adding another board) and compatable with DIN rail mounts. Additionaly the terminals have plug contacts for ease of wiring and the components are finger safe to prevent shocks. The PCB also has oversized heat sinks for thermal managment, which eliminates the need for a fan. LEDs on the board indicate what lights are switched for ease of dignostics and trouble shooting.
-* **Over 10 million cycles.** A solid state switch allows the lifespan of each light controler to be greater than 10 million switches.
-* **Minimum power surges during switching.** A zero crossing STR minimises power surges when switched.
-* **Coustome PCB design for bulk fabrication.** Using a mask stensle and surface mount solder, boards and easy and relitivly cheap to produce.
+* **Entire house automation capabilities.** Capable of switching 72 total lights, fans, floor heating, and appliances. High-voltage and high-current capabilities allow it to switch 120 or 240 volts and up to 25 amps.
+* **High voltage and high current capabilities.** Able to switch up to 120 times a second. By utilizing pulse-width modulation in the lighting code, lights can be dimmed.
+* **Easily installed, safe, and quiet.** The PCB is designed to be modular (more terminals can be added by adding another board) and compatible with DIN rail mounts. Additionally, the terminals have plug contacts for ease of wiring, and the components are finger-safe to prevent shocks. The PCB also has oversized heat sinks for thermal management, which eliminates the need for a fan. LEDs on the board indicate which lights are switched for ease of diagnostics and troubleshooting.
+* **Over 10 million cycles.** A solid-state switch allows the lifespan of each light controller to exceed 10 million switching cycles.
+* **Minimal power surges during switching.** A zero-crossing STR minimizes power surges when switching.
+* **Custom PCB design for bulk fabrication.** Using a mask stencil and surface-mount solder, boards are easy and relatively inexpensive to produce.
 
 **Bill of Materials**:
 
