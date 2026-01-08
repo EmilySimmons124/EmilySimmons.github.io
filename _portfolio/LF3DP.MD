@@ -2,7 +2,7 @@
 title: "Residential Lighting Control System"
 excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
 header:
-  image: https://github.com/EmilySimmons124/EmilySimmons.github.io/blob/main/assets/img/lighting_banner.png
+  image: /assets/img/lighting_banner.png
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Slide-3.png
