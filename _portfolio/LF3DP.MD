@@ -32,7 +32,7 @@ gallery:
 | [TRIAC](https://www.digikey.com/en/products/detail/stmicroelectronics/T3035H-8I/9608553?s=N4IgTCBcDaICoGYAMCCsAJAtADgJIgF0BfIA)  | 8× – $24.48    |
 | [8 pin terminal block](https://www.digikey.com/en/products/detail/amphenol-anytek/VI0801550000G/2261365)     | 2× – $3.80    |
 | [4 pin terminal block](https://www.digikey.com/en/products/detail/amphenol-anytek/VI0401550000G/2261315)     | 2× – $2.02    |
-| [Custome PCB]     | 2× – $5.28    |
+| Custome PCB     | 2× – $5.28    |
 
 \*Quantity and price for one board
 
