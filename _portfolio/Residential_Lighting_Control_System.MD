@@ -1,5 +1,5 @@
 ---
-title: "Residential Lighting Control System"
+title: "Residential Lighting Control System "
 excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
 header:
   image: assets/img/lighting_banner2.png
