@@ -1,5 +1,5 @@
 ---
-title: "Residential Lighting Control System "
+title: "Residential Lighting Control System"
 excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
 header:
   image: assets/img/lighting_banner2.png
@@ -43,4 +43,4 @@ gallery:
 <iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b602811b5f540c037fd54a7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 <iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b6028118eb2abb5d160a809?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Residential Lighting Control System Gallery" %}
