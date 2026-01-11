@@ -105,7 +105,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EmilySimmons124"
     - label: "Engineering Portfolio"
-      icon: "fab fa-fw fa-cogs"
+      icon: "fa-solid fa-solidLarge fa-gear"
       url: "https://emily17899.wixsite.com/engineeringportfilio"
 
 
