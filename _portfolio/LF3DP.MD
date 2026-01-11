@@ -6,9 +6,9 @@ header:
   teaser: assets/img/lighting_banner.png
 
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/lighting_board_heat.png
+  - image_path: assets/img/lighting_board_no_heat.png
+  - image_path: assets/img/lighting_banner.png
    
 ---
 
