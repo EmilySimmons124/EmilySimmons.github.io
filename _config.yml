@@ -93,6 +93,8 @@ analytics:
     tracking_id          : # Replace this with your ID, or delete
     anonymize_ip         : true
 
+fontawesome:
+  assets: true
 
 # Site Author
 author:
@@ -105,7 +107,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EmilySimmons124"
     - label: "Engineering Portfolio"
-      icon: "fa-solid fa-solidLarge fa-gear"
+      icon: "fas fa-fw fa-cogs"
       url: "https://emily17899.wixsite.com/engineeringportfilio"
 
 
@@ -116,7 +118,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EmilySimmons124"
     - label: "Engineering Portfolio"
-      icon: "fab fa-fw fa-cogs"
+      icon: "fas fa-fw fa-cogs"
       url: "https://emily17899.wixsite.com/engineeringportfilio"
 
 
