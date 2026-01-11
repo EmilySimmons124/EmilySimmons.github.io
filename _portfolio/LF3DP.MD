@@ -3,7 +3,8 @@ title: "Residential Lighting Control System"
 excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
 header:
   image: assets/img/lighting_banner2.png
-  teaser: assets/img/lighting_banner2.png
+  teaser: assets/img/lighting_banner.png
+
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
