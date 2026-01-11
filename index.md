@@ -1,26 +1,20 @@
 ---
-title: "Example Web Page"
+title: "Engineering Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: assets/img/simmons_emily_lathe.png
+
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Both my parents are mechanical engineers, and they started teaching me engineering as soon as I could talk. Engineering quickly became a passion of mine. I have been lucky enough to have the resources to pursue many engineering projects. (the photo is me machining an acrylic pencil holder on a lathe when I was six)"
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg 
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/lighting_banner.png
+    alt: "Residential Lighting Control System"
+    title: "Residential Lighting Control System"
+    excerpt: "Built as a flexible and easy alternative for wiring electrical switches."
 ---
 
 {% include feature_row %}
