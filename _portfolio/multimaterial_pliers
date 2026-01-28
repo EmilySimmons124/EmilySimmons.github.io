@@ -21,7 +21,7 @@ gallery:
 * **Minimal power surges during switching.** A zero-crossing STR minimizes power surges when switching.
 * **Custom PCB design for bulk fabrication.** Using a mask stencil and surface-mount solder, boards are easy and relatively inexpensive to produce.
 
-**Bill of Materials**:
+**Print Slicer Settings**:
 
 | Setting      | TPU         | Creality Hyper PETG         |
 | -------------- | ------------- | ------------- |
