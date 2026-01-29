@@ -8,7 +8,6 @@ header:
 gallery:
   - image_path: assets/img/lighting_board_heat.png
   - image_path: assets/img/lighting_board_no_heat.png
-  - image_path: assets/img/lighting_banner.png
    
 ---
 
