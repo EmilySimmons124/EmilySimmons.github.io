@@ -1,12 +1,50 @@
 ---
 layout: single
-title: "Respliersm"
-excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
+title: "Multi-Material Print-in-Place Pliers"
+excerpt: "A fully print-in-place, multi-material pliers design combining rigid and flexible polymers"
 header:
-  image: assets/img/lighting_banner2.png
-  teaser: assets/img/lighting_banner.png
+  image: assets/img/pliers_banner.png
+  teaser: assets/img/pliers_teaser.png
+
 gallery:
-  - image_path: assets/img/lighting_board_heat.png
-  - image_path: assets/img/lighting_board_no_heat.png
-  - image_path: assets/img/lighting_banner.png
+
 ---
+
+# Overview
+
+These pliers are a **print-in-place, multi-material mechanical tool** designed to demonstrate how additive manufacturing can replace traditional assembly by integrating **hinges, compliant features, and grips** into a single print. Rigid material provides structural strength while flexible material is used for ergonomic grip surfaces and compliant motion.
+
+The entire assembly is printed in one operation with **no post-processing or mechanical assembly required**.
+
+---
+
+# Features
+
+* **Fully print-in-place mechanism.** The pivot joint and moving jaws are printed assembled, eliminating pins, fasteners, or post-print assembly.
+* **Multi-material functional design.** Rigid polymer forms the jaws and handles, while TPU is used for compliant grip surfaces to improve ergonomics and control.
+* **Integrated hinge clearance.** Designed with tuned clearances to ensure free motion directly off the print bed.
+* **Compliant grip geometry.** Flexible material regions deform under load to improve comfort and reduce slipping.
+* **Single-print manufacturability.** Designed for dual-extrusion FDM printers using soluble or non-soluble interfaces.
+
+---
+
+# Print Slicer Settings
+
+| Setting | TPU (Grip) | PETG (Structure) |
+|--------|------------|------------------|
+| Nozzle Temperature | 220 °C | 250 °C |
+| Bed Temperature | 40 °C | 70 °C |
+| Layer Height | 0.2 mm | 0.2 mm |
+| First Layer Height | 0.2 mm | 0.2 mm |
+| Infill Type | Gyroid | Grid |
+| Infill Percent | 100% | 100% |
+| Support Material | None | None |
+
+\*Creality Print 7.0 Slicer
+
+---
+
+# Design Considerations
+
+* **Clearance tuning** was critical to ensure the hinge released cleanly without fusing.
+* **Material transition zones** were designed to avoid stress*
