@@ -18,6 +18,7 @@ gallery:
   - image_path: assets/img/Images new/spring_one.jpeg
   - image_path: assets/img/Images new/plug_one.jpeg
   - image_path: assets/img/Images new/plug_two.jpeg
+  - image_path: assets/img/Adobe Express - Pliers_motion.gif
 
 
    
