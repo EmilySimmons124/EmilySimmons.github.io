@@ -36,7 +36,7 @@ gallery:
 
 **Bill of Materials**:
 
-| Settings      |  [TPU](amazon.com/Polymaker-Filament-Flexible-1-75mm-Cardboard/dp/B09KKRYHS6/ref=sxin_27_pa_sp_search_thematic_sspa?content-id=amzn1.sym.563c8927-af7d-459e-9633-21cbf7a07679%3Aamzn1.sym.563c8927-af7d-459e-9633-21cbf7a07679&cv_ct_cx=TPU&keywords=TPU&pd_rd_i=B09KKRYHS6&pd_rd_r=948f4774-97da-4747-8677-f9d85a1af234&pd_rd_w=FuW4U&pd_rd_wg=ViA7D&pf_rd_p=563c8927-af7d-459e-9633-21cbf7a07679&pf_rd_r=S9JG9FYCSFK481A27X2B&qid=1769802189&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-38f1b294-ceac-4b0f-b4a4-629ab102646f-spons&aref=WsPKHUecTm&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)         | [Hyper PETG](https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg)         |
+| Settings      |  [TPU](https://us.polymaker.com/products/polyflex-tpu95?variant=39574341681209)         | [Hyper PETG](https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg)         |
 | -------------- | ------------- | ------------- |
 | Nozel Temperature| 220°C    | 250°C    |
 | Bed Temperature| 40°C    | 70°C    |
