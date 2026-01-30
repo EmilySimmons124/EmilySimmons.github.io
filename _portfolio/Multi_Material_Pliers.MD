@@ -2,13 +2,22 @@
 title: "Multi Material Pliers"
 excerpt: "Multi-material pliers design combining rigid and flexible polymers"
 header:
-  image: assets/img/lighting_banner2.png
-  teaser: assets/img/lighting_banner.png
+  image: assets/img/Images new/pliers_one.jpeg
+  teaser: assets/img/Images new/pliers_one.jpeg
 
 gallery:
-  - image_path: assets/img/lighting_board_heat.png
-  - image_path: assets/img/lighting_board_no_heat.png
-  - image_path: assets/img/lighting_banner.png
+  - image_path: assets/img/Images new/handle1_one.jpeg
+  - image_path: assets/img/Images new/handle1_three.jpeg
+  - image_path: assets/img/Images new/handle1_two.jpeg
+  - image_path: assets/img/Images new/handle2_one.jpeg
+  - image_path: assets/img/Images new/handle2_three.jpeg
+  - image_path: assets/img/Images new/handle2_two.jpeg
+  - image_path: assets/img/Images new/pliers_one.jpeg
+  - image_path: assets/img/Images new/pliers_two.jpeg
+  - image_path: assets/img/Images new/plug_one.jpeg
+  - image_path: assets/img/Images new/plug_two.jpeg
+  - image_path: assets/img/Images new/spring_one.jpeg
+  - image_path: assets/img/Images new/spring_two.jpeg
    
 ---
 
