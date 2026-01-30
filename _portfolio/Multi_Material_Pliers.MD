@@ -19,10 +19,10 @@ gallery:
   - image_path: assets/img/Images new/plug_one.jpeg
   - image_path: assets/img/Images new/plug_two.jpeg
 
-gallerytwo:
-  - image_path: assets/img/Adobe Express - Pliers_motion.gif
-  - image_path: assets/img/Adobe Express - Pliers_latching_seitch.gif
-  - image_path: assets/img/Adobe Express - Pliers_surface_mount_LED.gif
+
+assets/img/Adobe Express - Pliers_motion.gif
+assets/img/Adobe Express - Pliers_latching_seitch.gif
+assets/img/Adobe Express - Pliers_surface_mount_LED.gif
 
 
    
@@ -39,7 +39,6 @@ gallerytwo:
 *Another main design consideration was balancing plier size with jaw size. In order to pick up larger objects the spring has to deform more and be larger. The current jaw size is *****. However, because the spring plasticly deforms in both directions it is possible to pick up larger objects. The length of the jaws could also be increased to make the jaw size larger. For this specific project this jaw size is sufficient and keeping the spring and jaw length the size they are allows the pliers to be more compact. 
 *Additional adjustments could also be made to the handles. They are currently 95mm long and 25mm wide. Modifying these values could allow for higher torque or a better in hand fit for different users.
 
-{% include gallerytwo caption="Plier Motion Gallery" %}
 
 **Print Slicer Settings**:
 
