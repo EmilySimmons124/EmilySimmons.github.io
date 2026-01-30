@@ -20,11 +20,6 @@ gallery:
   - image_path: assets/img/Images new/plug_two.jpeg
 
 
-assets/img/Adobe Express - Pliers_motion.gif
-assets/img/Adobe Express - Pliers_latching_seitch.gif
-assets/img/Adobe Express - Pliers_surface_mount_LED.gif
-
-
    
 ---
 
