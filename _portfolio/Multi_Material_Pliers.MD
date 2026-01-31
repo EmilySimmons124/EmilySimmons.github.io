@@ -27,7 +27,6 @@ gallery:
 ---
 
 # Print in Place 3D Printing
-![Multi-material pliers actuation demo](assets/img/Adobe Express - Pliers_motion.gif)
 
 
 
