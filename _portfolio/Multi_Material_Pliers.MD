@@ -31,6 +31,13 @@ gallery:
 ![Multi-material pliers actuation demo]({{ "/assets/img/Adobe_Express_Pliers_latching_seitch.gif" | relative_url }})
 <img src="{{ '/assets/img/Adobe_Express_Pliers_latching_seitch.gif' | relative_url }}"
      alt="Multi-material pliers actuation demo">
+{% include figure image_path="/assets/img/Adobe_Express_Pliers_latching_seitch.gif" alt="Multi-material pliers actuation demo" %}
+{% include figure image_path="/assets/img/Adobe_Express_Pliers_latching_seitch.gif" alt="Multi-material pliers actuation demo" caption="TPU spring deformation during actuation." %}
+<img src="{{ '/assets/img/Adobe_Express_Pliers_latching_seitch.gif' | relative_url }}"
+     alt="Multi-material pliers actuation demo">
+<img src="{{ '/assets/img/Adobe_Express_Pliers_latching_seitch.gif' | absolute_url }}"
+     alt="Multi-material pliers actuation demo">
+
 
 
 
