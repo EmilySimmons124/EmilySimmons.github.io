@@ -25,7 +25,7 @@ gallery:
 
 # Print in Place 3D Printing
 
-
+![Multi-material pliers actuation demo](assets/img/Adobe_Express_Pliers_latching_seitch.gif)
 
 # Plier Design
 
