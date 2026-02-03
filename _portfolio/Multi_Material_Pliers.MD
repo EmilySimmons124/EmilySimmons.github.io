@@ -26,6 +26,7 @@ gallery:
    
 ---
 
+
 # 3D Printing Background
 Print in place 3D printing refers to parts that are fully functional immediately after removal from the printer, requiring little to no post-processing. Common examples include trinkets, such as flexible dragons, but this technique can also be applied to functional mechanical components.
 
@@ -70,7 +71,6 @@ There were two possible approaches to fabricating the pliers: print in place or 
 {% include gallery caption="Plier Gallery" %}
 
 # Sourses
-*Pereira, A. C., Bártolo, P. J., & Vázquez Martínez, J. M. (2023). Sustainability perspectives: A review of additive and subtractive manufacturing. Sustainable Manufacturing and Service Economics, 3, 100050. https://doi.org/10.1016/j.smsce.2023.100050
-*Yoon, H.-S., Lee, T.-M., Kim, H.-S., Min, B.-K., Kim, M.-S., Kim, N.-N., & Ahn, S.-H. (2015). A comparison of energy consumption in bulk forming, subtractive, and additive processes: Review and case study. International Journal of Precision Engineering and Manufacturing–Green Technology, 1(3), 261–279. https://doi.org/10.1007/s40684-014-0033-0
-*Kim, H., Park, E., Kim, S., Park, B., Kim, N., & Lee, S. (2017). Experimental study on mechanical properties of single- and dual-material 3D printed products. Procedia Manufacturing, 10, 887–897. https://doi.org/10.1016/j.promfg.2017.07.076
+* Acerbi, F., & Taisch, M. (2020). A literature review on circular economy adoption in the manufacturing sector. Journal of Cleaner Production, 273, 123086. https://doi.org/10.1016/j.jclepro.2020.123086
+* Yoon, H.-S., Lee, T.-M., Kim, H.-S., Min, B.-K., Kim, M.-S., Kim, N.-N., & Ahn, S.-H. (2015). A comparison of energy consumption in bulk forming, subtractive, and additive processes: Review and case study. International Journal of Precision Engineering and Manufacturing–Green Technology, 2(3), 261–279. https://doi.org/10.1007/s40684-014-0033-0
 
