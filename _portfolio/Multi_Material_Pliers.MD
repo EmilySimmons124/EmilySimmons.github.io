@@ -18,7 +18,7 @@ gallery:
   - image_path: assets/img/Images new/spring_one.jpeg
   - image_path: assets/img/Images new/plug_one.jpeg
   - image_path: assets/img/Images new/plug_two.jpeg
-  - image_path: assets/img/Adobe_Express_Pliers_latching_seitch.gif
+  - image_path: assets/img/Adobe Express - Pliers_latching_seitch.gif
   - image_path: assets/img/Adobe Express - Pliers_surface_mount_LED.gif
   - image_path: assets/img/Adobe Express - Pliers_motion.gif
 
@@ -27,13 +27,16 @@ gallery:
 ---
 
 # 3D Printing Background
-*Print in place 3D printing refers to parts that are fully functional immediately after removal from the printer, requiring little to no post-processing. Common examples include trinkets, such as flexible dragons, but this technique can also be applied to functional mechanical components.
-&3D printing provides a relatively low-cost method for prototyping complex parts. While it is generally slower and less economical than traditional subtractive manufacturing for large-scale production, it occupies an important niche for iteration. Currently, multi-material 3D printers are not sufficiently affordable or efficient for widespread manufacturing use, which limits the practicality of print-in-place designs in many applications.
-*Print-in-place parts are further constrained by material compatibility, particularly in multi-material designs. Achieving a strong bond between two different thermoplastics can be challenging; in many cases, the materials must have similar surface chemistry to bond effectively during printing. This requirement significantly restricts the combinations of materials that can be used in a single printed part and complicates the design of durable multi-material mechanisms.
+Print in place 3D printing refers to parts that are fully functional immediately after removal from the printer, requiring little to no post-processing. Common examples include trinkets, such as flexible dragons, but this technique can also be applied to functional mechanical components.
+
+3D printing provides a relatively low-cost method for prototyping complex parts. While it is generally slower and less economical than traditional subtractive manufacturing for large-scale production, it occupies an important niche for iteration. Currently, multi-material 3D printers are not sufficiently affordable or efficient for widespread manufacturing use, which limits the practicality of print-in-place designs in many applications.
+
+Print-in-place parts are further constrained by material compatibility, particularly in multi-material designs. Achieving a strong bond between two different thermoplastics can be challenging; in many cases, the materials must have similar surface chemistry to bond effectively during printing. This requirement significantly restricts the combinations of materials that can be used in a single printed part and complicates the design of durable multi-material mechanisms.
 
 # Project Goals
-*The goal of this project was to design and fabricate a functional pair of pliers using two different filament materials. Based on existing examples of 3D-printed pliers, many of which have a very limited jaw range, an additional design goal was to ensure the pliers could grasp a wide range of object sizes.
-*There were two possible approaches to fabricating the pliers: print in place or printing the components as separate parts. Due to limited access to a multi-material 3D printer, the components were printed separately. However, the pliers were still designed to be compatible with a multi-material printer, allowing for fabrication as a single print.
+The goal of this project was to design and fabricate a functional pair of pliers using two different filament materials. Based on existing examples of 3D-printed pliers, many of which have a very limited jaw range, an additional design goal was to ensure the pliers could grasp a wide range of object sizes.
+
+There were two possible approaches to fabricating the pliers: print in place or printing the components as separate parts. Due to limited access to a multi-material 3D printer, the components were printed separately. However, the pliers were still designed to be compatible with a multi-material printer, allowing for fabrication as a single print.
 
 
 
