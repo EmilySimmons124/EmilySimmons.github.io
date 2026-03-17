@@ -12,14 +12,16 @@ gallery:
    
 ---
 
-# Features
+# What is pinch flow fractionation?
 
-* **Entire house automation capabilities.** Capable of switching 72 total lights, fans, floor heating, and appliances. High-voltage and high-current capabilities allow it to switch 120 or 240 volts and up to 25 amps.
-* **High voltage and high current capabilities.** Able to switch up to 120 times a second. By utilizing pulse-width modulation in the lighting code, lights can be dimmed.
-* **Easily installed, safe, and quiet.** The PCB is designed to be modular (more terminals can be added by adding another board) and compatible with DIN rail mounts. Additionally, the terminals have plug contacts for ease of wiring, and the components are finger-safe to prevent shocks. The PCB also has oversized heat sinks for thermal management, which eliminates the need for a fan. LEDs on the board indicate which lights are switched for ease of diagnostics and troubleshooting.
-* **Over 10 million cycles.** A solid-state switch allows the lifespan of each light controller to exceed 10 million switching cycles.
-* **Minimal power surges during switching.** A zero-crossing STR minimizes power surges when switching.
-* **Custom PCB design for bulk fabrication.** Using a mask stencil and surface-mount solder, boards are easy and relatively inexpensive to produce.
+* Pinch flow fractionation (PFF) is a passive microfluidic technique. It is primarily used to sort particles based on their size. It functions by having two inlets: one for the particles and their fluid and one for only the fluid. These two channels converge to the pinch section and the only fluid flow pushes the particles to the wall of the pinch section. The pinch section then turns into the broad section (a much wider channel) and the particles are able to disperse. The smaller particles rise higher than the larger particles because the upward push from the fluid only channel has a larger effect on the lighter particles.
+* 
+* 
+# PFF applications:
+* PFF has a wide range of applications, as illustrated in the figure below. One interesting application is in environmental surveys. PFF is good for quality control because any contaminant can be separated and recorded from a sample. This concept can be applied to testing water, air, or waste samples. By separating and measuring the particles that compose a sample atypical compositions can be noted and trends over time can be identified.
+* 
+* 
+
 
 **Bill of Materials**:
 
