@@ -22,11 +22,11 @@ gallery:
 
 ![name](/assets/img/lighting_banner.png)
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0255270124004252" target="_blank" rel="noopener noreferrer">
+<a href="/assets/img/lighting_banner.png" target="_blank" rel="noopener noreferrer">
   <img src="/assets/img/ufluidics/PFF_application_wheel.jpg" alt="PFF Application" style="width:50%;">
 </a>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0255270124004252" target="_blank" rel="noopener noreferrer"><img src="/assets/img/ufluidics/PFF_application_wheel.jpg" alt="Alt Text" style="width:50%; height:auto;"></a>
+<a href= /assets/img/lighting_banner.png target="_blank" rel="noopener noreferrer"><img src="/assets/img/ufluidics/PFF_application_wheel.jpg" alt="Alt Text" style="width:50%; height:auto;"></a>
 
 [![Alt text](EmilySimmons.github.io/assets/img/ufluidics
 /PFF_application_wheel.jpg)](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
