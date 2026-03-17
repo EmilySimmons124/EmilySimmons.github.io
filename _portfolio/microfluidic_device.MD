@@ -15,12 +15,12 @@ gallery:
 # What is pinch flow fractionation?
 
 * Pinch flow fractionation (PFF) is a passive microfluidic technique. It is primarily used to sort particles based on their size. It functions by having two inlets: one for the particles and their fluid and one for only the fluid. These two channels converge to the pinch section and the only fluid flow pushes the particles to the wall of the pinch section. The pinch section then turns into the broad section (a much wider channel) and the particles are able to disperse. The smaller particles rise higher than the larger particles because the upward push from the fluid only channel has a larger effect on the lighter particles.
-* 
-* 
+
+ 
 # PFF applications:
 * PFF has a wide range of applications, as illustrated in the figure below. One interesting application is in environmental surveys. PFF is good for quality control because any contaminant can be separated and recorded from a sample. This concept can be applied to testing water, air, or waste samples. By separating and measuring the particles that compose a sample atypical compositions can be noted and trends over time can be identified.
-* 
-* 
+
+
 
 
 **Bill of Materials**:
