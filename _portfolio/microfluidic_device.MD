@@ -31,7 +31,7 @@ gallery:
 [![Alt text](EmilySimmons.github.io/assets/img/ufluidics
 /PFF_application_wheel.jpg)](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0255270124004252" target="_blank" rel="noopener noreferrer"><img src="/assets/img/ufluidics/PFF_application_wheel.jpg" alt="Alt Text" style="width:50%; height:auto;"></a>
+<a href="/assets/img/ufluidics/PFF_application_wheel.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/img/ufluidics/PFF_application_wheel.jpg" alt="Alt Text" style="width:50%; height:auto;"></a>
   
 # Design
 * A symmetric flow design was chosen for this device to minimize the variables that would affect the final location of the particles. This allowed me to focus more on trying to maintain equal flow through the ports.  
