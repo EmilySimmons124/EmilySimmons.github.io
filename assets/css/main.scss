@@ -8,9 +8,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@media (min-width: 80em) {
-    .page {
+
+.page {
+    @media (min-width: 80em) {
+        width: calc(100% - 50px);
+        padding-right: 50px;
+    }
+
+    @media (min-width: 64em) {
         width: calc(100% - 50px);
         padding-right: 50px;
     }
 }
+
