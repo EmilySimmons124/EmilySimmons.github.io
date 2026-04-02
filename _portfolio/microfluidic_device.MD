@@ -20,7 +20,7 @@ gallery:
 # PFF Applications:
 * PFF has a wide range of applications, as illustrated in the figure below. One interesting application is in environmental surveys. PFF is good for quality control because any contaminant can be separated and recorded from a sample. This concept can be applied to testing water, air, or waste samples. By separating and measuring the particles that compose a sample atypical compositions can be noted and trends over time can be identified.
 
-<img src="/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg" alt="test" style="width:100px:"/>
+<img src="/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg" alt="test" style="width:50px:"/>
 
   
 # Design
@@ -36,7 +36,7 @@ gallery:
   
 # Manufacturing Instructions
 
-<img src="/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg" alt="test">
+<img src="/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg" alt="test" style="width:50px:"/>
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
