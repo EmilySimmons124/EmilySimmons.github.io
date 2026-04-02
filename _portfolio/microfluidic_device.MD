@@ -20,11 +20,11 @@ gallery:
 # PFF Applications:
 * PFF has a wide range of applications, as illustrated in the figure below. One interesting application is in environmental surveys. PFF is good for quality control because any contaminant can be separated and recorded from a sample. This concept can be applied to testing water, air, or waste samples. By separating and measuring the particles that compose a sample atypical compositions can be noted and trends over time can be identified.
 
-<img src="/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg" alt="test" style="width:50px:"/>
 ![My Image](/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg){: width="50%" }
   
 # Design
 * A symmetric flow design was chosen for this device to minimize the variables that would affect the final location of the particles. The location of the outlets were determined by finding the final height of a 150um and 425um particle (see calculations section for equation used). The values were determined to be 38.9 for a 150um particle and 29.6 for a 450um particle. These were the two extremes of the particle range. The division wall was placed in the middle of these values at 34.4mm from the bottom of the device. Any smaller particles were contained by the top of the device and the larger particles were contained by a second wall.
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_calcs.png){: width="50%" }
 * The microfluidic device was designed with a channel width of 650um. This width is 1.3x the width of the largest particle meaning that the particles should not have trouble flowing through or getting stuck in the channels. This also still provides nearly 10mm of separation in the final height for the particles. The channel height is 650um. Channels that are too tall will result in turbulent flow. Finally, the broad section was designed to be as wide and long as possible, because maximizing these values improves the probability of the particles being sorted correctly.
 * Integrated flow resistors had not effectively fixed the problem of unequal flow through the outlets and the height of the outlet tubes changing had greatly affected designs in the past. To ensure the correct flow through each outlet I designed a syringe pump system that is able to pull three syringes at individual speeds. By controlling the flow rate of each outlet the flow rate was precisely controlled.
   
