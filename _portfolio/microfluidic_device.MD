@@ -21,7 +21,10 @@ gallery:
 * PFF has a wide range of applications, as illustrated in the figure below. One interesting application is in environmental surveys. PFF is good for quality control because any contaminant can be separated and recorded from a sample. This concept can be applied to testing water, air, or waste samples. By separating and measuring the particles that compose a sample atypical compositions can be noted and trends over time can be identified.
 
 ![My Image](/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg){: width="50%" style="display: block; margin: 0 auto;"}
-  
+
+
+* TEST
+
 # Design
 * A symmetric flow design was chosen for this device to minimize the variables that would affect the final location of the particles. The location of the outlets were determined by finding the final height of a 150um and 425um particle (see calculations section for equation used). The values were determined to be 38.9 for a 150um particle and 29.6 for a 450um particle. These were the two extremes of the particle range. The division wall was placed in the middle of these values at 34.4mm from the bottom of the device. Any smaller particles were contained by the top of the device and the larger particles were contained by a second wall.
 ![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_calcs.png){: width="50%" }
