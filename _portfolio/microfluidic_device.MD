@@ -23,11 +23,9 @@ gallery:
 ![My Image](/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg){: width="50%" style="display: block; margin: 0 auto;"}
 
 
-* TEST
-
 # Design
 * A symmetric flow design was chosen for this device to minimize the variables that would affect the final location of the particles. The location of the outlets were determined by finding the final height of a 150um and 425um particle (see calculations section for equation used). The values were determined to be 38.9 for a 150um particle and 29.6 for a 450um particle. These were the two extremes of the particle range. The division wall was placed in the middle of these values at 34.4mm from the bottom of the device. Any smaller particles were contained by the top of the device and the larger particles were contained by a second wall.
-![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_calcs.png){: width="50%" }
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_calcs.png){: width="50%" style="display: block; margin: 0 auto;"}
 * The microfluidic device was designed with a channel width of 650um. This width is 1.3x the width of the largest particle meaning that the particles should not have trouble flowing through or getting stuck in the channels. This also still provides nearly 10mm of separation in the final height for the particles. The channel height is 650um. Channels that are too tall will result in turbulent flow. Finally, the broad section was designed to be as wide and long as possible, because maximizing these values improves the probability of the particles being sorted correctly.
 * Integrated flow resistors had not effectively fixed the problem of unequal flow through the outlets and the height of the outlet tubes changing had greatly affected designs in the past. To ensure the correct flow through each outlet I designed a syringe pump system that is able to pull three syringes at individual speeds. By controlling the flow rate of each outlet the flow rate was precisely controlled.
   
@@ -39,7 +37,7 @@ gallery:
   
 # Manufacturing Instructions
 
-![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg){: width="50%" }
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
