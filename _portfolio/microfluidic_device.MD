@@ -6,9 +6,9 @@ header:
   teaser: assets/img/lighting_banner.png
 
 gallery:
-  - image_path: assets/img/lighting_board_heat.png
-  - image_path: assets/img/lighting_board_no_heat.png
-  - image_path: assets/img/lighting_banner.png
+  - image_path: assets/img/ufluidics/u_device_side.jpeg
+  - image_path: assets/img/ufluidics/u_device_top.jpeg
+  - image_path: assets/img/ufluidics/u_mold.jpeg
    
 ---
 
@@ -35,6 +35,8 @@ gallery:
 * To increase the particle range the microfluidic device is able to handle, we need to identify what is limiting it. The large particle size is limited by the width of the channel. The small particle is limited by the top of the device as well as the channel width. If the broad section is too short then the smaller particles will collide with the top and not be able to sort between smaller particle sizes. The more challenging limitation is that the channel needs to be wide enough to allow the large particles through, but if it is too large the small particles may clog or not fully be pressed to the top of the pinch section. To try to combat these problems, a multistep sorting device could be designed. By sorting the particles in several pinch flow fractionations, if a particle didn’t reach its calculated height in the first sort section it would have a chance to be restored. Additionally the pinch section width could shrink for the smaller particles, ensuring they are pushed fully to the top of the pinch section.
   
 # Manufacturing Instructions
+
+<img src="/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg" alt="test">
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
