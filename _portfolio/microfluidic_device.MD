@@ -37,6 +37,7 @@ gallery:
 # Manufacturing Instructions
 
 <img src="/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg" alt="test" style="width:50px:"/>
+![Alt text](/EmilySimmons.github.io/assets/img/ufluidics/u_mold.jpeg)
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
