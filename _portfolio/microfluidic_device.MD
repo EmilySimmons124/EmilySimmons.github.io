@@ -30,6 +30,8 @@ gallery:
 
 * The microfluidic device was designed with a channel width of 650um. This width is 1.3x the width of the largest particle meaning that the particles should not have trouble flowing through or getting stuck in the channels. This also still provides nearly 10mm of separation in the final height for the particles. The channel height is 650um. Channels that are too tall will result in turbulent flow. Finally, the broad section was designed to be as wide and long as possible, because maximizing these values improves the probability of the particles being sorted correctly.
 * Integrated flow resistors had not effectively fixed the problem of unequal flow through the outlets and the height of the outlet tubes changing had greatly affected designs in the past. To ensure the correct flow through each outlet I designed a syringe pump system that is able to pull three syringes at individual speeds. By controlling the flow rate of each outlet the flow rate was precisely controlled.
+
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/IMG_2868.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
   
 # Why Resin Printing?
 * Resin printing works well for a lower precision, large scale microfluidic device. The minimum feature size for resin printing is around 85um, which is very large for microfluidics. Photolithography is a common manufacturing technique for microfluidic masks because it can achieve very high precision, however, it is very expensive and takes longer to manufacture. Cost and time give resin printed molds an advantage when minimum feature size is not a concern. 
