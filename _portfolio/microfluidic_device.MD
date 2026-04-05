@@ -12,7 +12,8 @@ gallery:
    
 ---
 
-[![PFF Microfluidic Device](/EmilySimmons.github.io/assets/img/ufluidics/Screenshot 2026-04-05 141549.png)](https://youtu.be/3i9ZPW2Ylkc){: width="200%" style="display: block; margin: 0 auto;"}
+[![PFF Microfluidic Device](/EmilySimmons.github.io/assets/img/ufluidics/Screenshot 2026-04-05 141549.png)](https://youtu.be/3i9ZPW2Ylkc){: width="150%" style="display: block; margin: 0 auto;"}
+Link to a video of the microfluidic sorting a small partical
 
 # What is Pinch Flow Fractionation?
 
