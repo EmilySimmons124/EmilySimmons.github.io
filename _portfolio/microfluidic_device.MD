@@ -43,6 +43,14 @@ gallery:
   
 # Manufacturing Instructions
 
+* Create a CAD model for the mold of the microfluidic device
+* Resin 3D the mold for the microfluidic device
+* Post process the mold by UV post curing and heat cook the mold - cures any uncured resin and reenforces the mold
+* Make, cast, and cure PDMS - The PDMS is the actual microfluidic device
+* Plasma bond the PDMS to the microscope slide - The plasma bonding causes the slide and PDMS to seal together when put together. This prevents liquid from leaking out the side of the device.
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/Plasma-Treating-Image (1).jpg){: width="50%" style="display: block; margin: 0 auto;"}
+* The device is now fully manufactured and ready to be tested.
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_device_top.jpegg){: width="50%" style="display: block; margin: 0 auto;"}
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
