@@ -2,8 +2,8 @@
 title: "Microfluidic device: Pinch flow fractionation"
 excerpt: "A microfluidic device to sort particles depending on their size"
 header:
-  image: assets/img/lighting_banner2.png
-  teaser: assets/img/lighting_banner.png
+  image: assets/img/ufluidics/u_device_side.jpeg
+  teaser: assets/img/ufluidics/u_device_side.jpeg
 
 gallery:
   - image_path: assets/img/ufluidics/u_device_side.jpeg
@@ -11,6 +11,8 @@ gallery:
   - image_path: assets/img/ufluidics/u_mold.jpeg
    
 ---
+
+[![PFF Microfluidic Device](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/3i9ZPW2Ylkc)
 
 # What is Pinch Flow Fractionation?
 
@@ -48,12 +50,12 @@ gallery:
 * Post process the mold by UV post curing and heat cook the mold - cures any uncured resin and reenforces the mold
 * Make, cast, and cure PDMS - The PDMS is the actual microfluidic device
 * Plasma bond the PDMS to the microscope slide - The plasma bonding causes the slide and PDMS to seal together when put together. This prevents liquid from leaking out the side of the device.
-![My Image](/EmilySimmons.github.io/assets/img/ufluidics/Plasma-Treating-Image (1).jpg){: width="50%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/Plasma-Treating-Image (1).jpg){: width="30%" style="display: block; margin: 0 auto;"}
 * The device is now fully manufactured and ready to be tested.
-![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_device_top.jpegg){: width="50%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/ufluidics/u_device_top.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Residential Lighting Control System Gallery" %}
+{% include gallery caption="PFF Microfluidic Device" %}
 
