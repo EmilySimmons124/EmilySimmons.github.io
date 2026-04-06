@@ -60,3 +60,7 @@ Link to a video of the microfluidic sorting a small partical
 
 {% include gallery caption="PFF Microfluidic Device" %}
 
+# Sources
+* Ashrafizadeh, S. N., Zare, M., & Khatibi, M. (2025). A comprehensive review of pinch flow fractionation in microfluidics: From principles to practical applications. Chemical Engineering and Processing - Process Intensification, 208, 110087. https://doi.org/10.1016/j.cep.2024.110087
+* Venzac, B., Deng, S., Mahmoud, Z., Lenferink, A., Costa, A., Bray, F., Otto, C., Rolando, C., & Monflier, R. (2021). PDMS curing inhibition on 3D-printed molds: Why? Also, how to avoid it? Analytical Chemistry, 93(19), 7180–7187. https://doi.org/10.1021/acs.analchem.0c04944
+
