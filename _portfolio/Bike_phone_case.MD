@@ -31,12 +31,19 @@ gallery:
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Assembly_top.jpg){: width="50%" style="display: block; margin: 0 auto;"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are three main design elements to this phone case: the attachment to the bike, the rotation mechanism, and the phone holder. The attachment mechanism for the bike is relatively simplistic, just consisting of two parts that clamp together on the bike bar. This design is easy to install and adjust, yet very secure when tightened. 
 
+<div class="grid" markdown>
 
-| Image 1 | Image 2 |
-| :---: | :---: |
-| ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Base_back.jpg){: width="30%" style="display: block"}  | ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="30%" style="display: block"} |
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Base_back.jpg){: width="30%" style="display: block"}
 
-![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Base_back.jpg){: width="30%" style="display: block"}![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="30%" style="display: block"}
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="30%" style="display: block"}
+
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="30%" style="display: block"}
+
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="30%" style="display: block"}
+
+</div>
+
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Base_back.jpg){: width="30%" style="display: block"}&nbsp; &nbsp; ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="30%" style="display: block"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To allow the phone to rotate from portrait to landscape mode, a decent mechanism was included. A picture of the mechanism is below. The slots for the ball allow the case to lock into each position, and the spring holding it keeps it in place. 
 
