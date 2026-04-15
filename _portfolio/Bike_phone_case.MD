@@ -6,7 +6,7 @@ header:
   teaser: assets/img/ufluidics/u_device_side.jpeg
 
 gallery:
-  - image_path: assets/img/bike_phone/Assembly_bottom (1).HEIC
+  - image_path: assets/img/bike_phone/Assembly_bottom (1) (1) (1).jpg
   - image_path: assets/img/ufluidics/u_device_top.jpeg
   - image_path: assets/img/ufluidics/u_mold.jpeg
    
