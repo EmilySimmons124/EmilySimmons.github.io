@@ -12,21 +12,18 @@ gallery:
    
 ---
 
-[![PFF Microfluidic Device](/EmilySimmons.github.io/assets/img/ufluidics/Screenshot 2026-04-05 141549.png)](https://youtu.be/3i9ZPW2Ylkc){: width="150%" style="display: block; margin: 0 auto;"}
-Link to a video of the microfluidic device sorting a small particle
-
 # What is Top-Down Modeling?
 
-* Top-down modeling is a 3D modeling method that leverages the design of multiple components in a single design file. In traditional CAD modeling, each component is created in its own file and then added to an assembly with all the other components. This can be an effective method for modeling; however, components often need complementary geometry. Top-down modeling makes it extremely easy to reuse detentions from one component in another because all components are in the same workflow. It also eliminates the need to switch between model files to see how changing a single component affects the overall assembly. Traditional CAD modeling can still be useful, especially when used alongside top-down modeling.
-* Top-down modeling was used to create my bike phone holder because there are six individual parts that need to fit together seamlessly. By using top-down modeling, I was able to create model sketches from previous geometry and add a small offset to account for printing tolerance, making the modeling process significantly easier than if traditional modeling were used.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top-down modeling is a 3D modeling method that leverages the design of multiple components in a single design file. In traditional CAD modeling, each component is created in its own file and then added to an assembly with all the other components. This can be an effective method for modeling; however, components often need complementary geometry. Top-down modeling makes it extremely easy to reuse detentions from one component in another because all components are in the same workflow. It also eliminates the need to switch between model files to see how changing a single component affects the overall assembly. Traditional CAD modeling can still be useful, especially when used alongside top-down modeling.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top-down modeling was used to create my bike phone holder because there are six individual parts that need to fit together seamlessly. By using top-down modeling, I was able to create model sketches from previous geometry and add a small offset to account for printing tolerance, making the modeling process significantly easier than if traditional modeling were used.
   
    
 # Phone Holder Design:
-* There are three main design elements to this phone case: the attachment to the bike, the rotation mechanism, and the phone holder. The attachment mechanism for the bike is relatively simplistic, just consisting of two parts that clamp together on the bike bar. This design is easy to install and adjust, yet very secure when tightened. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are three main design elements to this phone case: the attachment to the bike, the rotation mechanism, and the phone holder. The attachment mechanism for the bike is relatively simplistic, just consisting of two parts that clamp together on the bike bar. This design is easy to install and adjust, yet very secure when tightened. 
 
 # PHOTO PHOTO PHOTO
 
-* To allow the phone to rotate from portrait to landscape mode, a decent mechanism was included. A picture of the mechanism is below. The slots for the ball allow the case to lock into each position, and the spring holding it keeps it in place. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To allow the phone to rotate from portrait to landscape mode, a decent mechanism was included. A picture of the mechanism is below. The slots for the ball allow the case to lock into each position, and the spring holding it keeps it in place. 
 
 # PHOTO PHOTO PHOTO
 
@@ -45,7 +42,7 @@ Link to a video of the microfluidic device sorting a small particle
 
 
 # Printing Technology:
-* FFF (Fused Filament Fabrication) was used to make the phone case. Resin printing would have been good for the complicated geometry of the threads. However, given the numerous iterations and deadlines of the project, FFF was the more favorable option due to its accessibility and low prototyping cost. Additionally, the 3D printer with a 4mm nozzle was able to produce well-defined threads. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FFF (Fused Filament Fabrication) was used to make the phone case. Resin printing would have been good for the complicated geometry of the threads. However, given the numerous iterations and deadlines of the project, FFF was the more favorable option due to its accessibility and low prototyping cost. Additionally, the 3D printer with a 4mm nozzle was able to produce well-defined threads. 
 
 # Mold CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b050cbe17f5f4db6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
