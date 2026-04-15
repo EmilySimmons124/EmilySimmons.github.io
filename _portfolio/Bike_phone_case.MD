@@ -3,7 +3,7 @@ title: "Adjustable Bike Phone Holder"
 excerpt: "A phone holder that mounts on a bike handle bars and fits a range of phone sizes"
 header:
   image: assets/img/bike_phone/Assembly_banner.jpg
-  teaser: assets/img/bike_phone/Assembly_ladscape.jpg
+  teaser: assets/img/bike_phone/Teaser_image.jpg
 
 gallery:
   - image_path: assets/img/bike_phone/Assembly_bottom.jpg
