@@ -48,7 +48,7 @@ gallery:
 1. Using M5 bolts, tighten the mounting clamps around the bike handle and adjust the angle to fit your preference.
 2. Unscrew the phone clamp bolt enough to fit your phone between the two walls of the clamp
 3. Tighten the phone clamp bolt back until your phone is securely held
-![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Assembly_portrate.jpg){: width="50%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Assembly_portrate.jpg){: width="40%" style="display: block; margin: 0 auto;"}
 4. To change between portrait and landscape mode, gently twist your phone until you hear it click into position
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/bike_phone_gif (1).gif){: width="50%" style="display: block; margin: 0 auto;"}
 
