@@ -2,13 +2,21 @@
 title: "Adjustable Bike Phone Holder"
 excerpt: "A phone holder that mounts on a bike handle bars and fits a range of phone sizes"
 header:
-  image: assets/img/ufluidics/u_device_side.jpeg
-  teaser: assets/img/ufluidics/u_device_side.jpeg
+  image: assets/img/bike_phone/Assembly_banner.jpg
+  teaser: assets/img/bike_phone/Assembly_ladscape.jpg
 
 gallery:
-  - image_path: assets/img/bike_phone/Assembly_bottom (1) (1) (1).jpg
-  - image_path: assets/img/ufluidics/u_device_top.jpeg
-  - image_path: assets/img/ufluidics/u_mold.jpeg
+  - image_path: assets/img/bike_phone/Assembly_bottom.jpg
+  - image_path: assets/img/bike_phone/Assembly_bottom_angle.jpg
+  - image_path: assets/img/bike_phone/Assembly_top.jpg
+  - image_path: assets/img/bike_phone/Assembly_top_angle.jpg
+  - image_path: assets/img/bike_phone/Base_back.jpg
+  - image_path: assets/img/bike_phone/Base_front.jpg
+  - image_path: assets/img/bike_phone/Bottom_clamp.jpg
+  - image_path: assets/img/bike_phone/Nut.jpg
+  - image_path: assets/img/bike_phone/Wall.jpg
+  - image_path: assets/img/bike_phone/Assembly_ladscape.jpg
+  - image_path: assets/img/bike_phone/Assembly_portrate.jpg
    
 ---
 
