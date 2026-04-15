@@ -15,8 +15,9 @@ gallery:
   - image_path: assets/img/bike_phone/Bottom_clamp.jpg
   - image_path: assets/img/bike_phone/Nut.jpg
   - image_path: assets/img/bike_phone/Wall.jpg
-  - image_path: assets/img/bike_phone/Wall.jpg
-  - image_path: assets/img/bike_phone/Wall.jpg
+  - image_path: assets/img/bike_phone/render_one.jpg
+  - image_path: assets/img/bike_phone/render_three.jpg
+  - image_path: assets/img/bike_phone/render_two.jpg
   - image_path: assets/img/bike_phone/Assembly_ladscape.jpg
   - image_path: assets/img/bike_phone/Assembly_portrate.jpg
    
