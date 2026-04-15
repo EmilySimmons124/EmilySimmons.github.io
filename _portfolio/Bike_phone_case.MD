@@ -15,6 +15,8 @@ gallery:
   - image_path: assets/img/bike_phone/Bottom_clamp.jpg
   - image_path: assets/img/bike_phone/Nut.jpg
   - image_path: assets/img/bike_phone/Wall.jpg
+  - image_path: assets/img/bike_phone/Wall.jpg
+  - image_path: assets/img/bike_phone/Wall.jpg
   - image_path: assets/img/bike_phone/Assembly_ladscape.jpg
   - image_path: assets/img/bike_phone/Assembly_portrate.jpg
    
@@ -38,7 +40,7 @@ gallery:
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="40%" style="display: block; margin: 0 auto;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To allow the phone to rotate from portrait to landscape mode, a decent mechanism was included. A picture of the mechanism is below. The slots for the ball allow the case to lock into each position, and the spring holding it keeps it in place. 
-
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Screenshot 2026-04-15 184018.png){: width="40%" style="display: block; margin: 0 auto;"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The phone holder had to be compatible with a range of phone sizes. This was the most complicated part of the case to model. Several methods were tested to vary the size of the phone case holder, including 3D-printed springs, ratcheting clips, and a threaded rod. Ultimately, the threaded rod was the most reliable option, offering the largest size range. The threaded rod was attached to a solid rectangle with a raised side wall. Another “wall” piece was designed to slide smoothly over the threaded rod, and a bolt was added. When tightened, the bolt squeezes the ‘wall’ against the phone, clamping it in place. 
 
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Base_front.jpg){: width="40%" style="display: block; margin: 0 auto;"}
