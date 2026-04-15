@@ -27,6 +27,8 @@ gallery:
   
    
 # Phone Holder Design:
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/bike_phone_gif (1).gif){: width="50%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Assembly_top.jpg){: width="50%" style="display: block; margin: 0 auto;"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are three main design elements to this phone case: the attachment to the bike, the rotation mechanism, and the phone holder. The attachment mechanism for the bike is relatively simplistic, just consisting of two parts that clamp together on the bike bar. This design is easy to install and adjust, yet very secure when tightened. 
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Base_back.jpg){: width="50%" style="display: block; margin: 0 auto;"}
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Bottom_clamp.jpg){: width="50%" style="display: block; margin: 0 auto;"}
