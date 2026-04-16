@@ -2,16 +2,19 @@
 title: "Custom Pickleball Paddle"
 excerpt: "A fully 3D custom pickelball paddle"
 header:
-  image: assets/img/ufluidics/u_device_side.jpeg
-  teaser: assets/img/ufluidics/u_device_side.jpeg
+  image: assets/img/pickleball/Pickleball_side_blue.jpg
+  teaser: assets/img/pickleball/Pickleball_pink_uncroped.jpg
 
 gallery:
-  - image_path: assets/img/ufluidics/u_device_side.jpeg
-  - image_path: assets/img/ufluidics/u_device_top.jpeg
-  - image_path: assets/img/ufluidics/u_mold.jpeg
+  - image_path: assets/img/pickleball/Pickleball_angle_pink.jpg
+  - image_path: assets/img/pickleball/Pickleball_edge_guards.jpg
+  - image_path: assets/img/pickleball/Pickleball_no_details.jpg
+  - image_path: assets/img/pickleball/Pickleball_side_black.jpg
+  - image_path: assets/img/pickleball/Pickleball_top_black.jpg
+  - image_path: assets/img/pickleball/Pickleball_top_blue.jpg
+  - image_path: assets/img/pickleball/Pickleball_top_pink.jpg
    
 ---
-![My Image](/EmilySimmons.github.io/assets/img/ufluidics/PFF_application_wheel.jpg){: width="50%" style="display: block; margin: 0 auto;"}
 
 # Design Goals and Base Design:
 
@@ -27,9 +30,11 @@ gallery:
    
 # Additional Features:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This paddle also includes an interchangeable edge guard to protect the paddle's face. The edge guard will protect the face of the paddle outside the matching area. It is also press-fit around the edge of the paddle, making it easy to replace when it gets damaged without risk of coming off while playing. In addition to protecting the face of the paddle, it allows easy modification of the paddle.
+![My Image](/EmilySimmons.github.io/assets/img/pickleball/Pickleball_edge_guards.jpg){: width="40%" style="display: block; margin: 0 auto;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is also a removable cap at the bottom of the paddle handle that allows further customization and protection against damage. Often, the bottom of the handle takes the largest amount of damage outside of a game, and thus being able to change it easily prolongs the life of the paddle. Similar to the edge guard, it is a press-fit around the paddle handle, with an additional two pegs that go into the handle to provide extra security.
-
+![My Image](/EmilySimmons.github.io/assets/img/pickleball/Pickleball_top_black.jpg){: width="40%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/pickleball/Pickleball_top_blue_rotated.jpg){: width="40%" style="display: block; margin: 0 auto;"}
 
 # Printing Technology:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fused filament fabrication (FFF) was used to manufacture the pickleball paddle. FFF was used because it allowed quick, inexpensive fabrication while providing freedom in the material and infill used. Resin and pSLS printing would both be unsuitable for manufacturing the paddle, as resin printing would be very brittle, and pSLS has fewer print settings, limiting the ability to adjust the infill percent to adjust weight. 
