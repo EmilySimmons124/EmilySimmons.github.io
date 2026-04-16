@@ -21,6 +21,7 @@ gallery:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This pickleball paddle was custom-designed for my experience level. The last time I played pickleball was in 2019 in middle school PE class. I am considering myself a complete beginner. I have, however, taken tennis lessons at several points in my life. My main objective for the paddle was to be easy to move and make quick adjustments. I was less conservative with the power of my swing, as I will primarily focus on my swing and making sure the ball gets over the net.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition to being light, I made the paddle 8.5" wide. A paddle can only be 24" wide plus the length (including the handle). This means that my paddle is only slightly taller than it is wide. This limits my lateral range when playing, but being able to hit the ball is more important than the range at my level. The added width means I will not have to be as precise about how high the racket is when swinging, which should make it easier to hit even if I don't judge the ball's height correctly. 
+![My Image](/EmilySimmons.github.io/assets/img/pickleball/Pickleball_top_black.jpg){: width="40%" style="display: block; margin: 0 auto;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wanted to keep my paddle light so it would be easy for me to move it when hitting the ball. The paddle weighs only *****, which is considered lightweight for a paddle. This will reduce the power of my swing but make it significantly easier to make last-minute adjustments.
 
