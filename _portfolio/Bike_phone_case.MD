@@ -59,7 +59,7 @@ gallery:
 # Printing Technology:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FFF (Fused Filament Fabrication) was used to make the phone case. Resin printing would have been good for the complicated geometry of the threads. However, given the numerous iterations and deadlines of the project, FFF was the more favorable option due to its accessibility and low prototyping cost. Additionally, the 3D printer with a 4mm nozzle was able to produce well-defined threads. 
 
-# Mold CAD Model
+# Phone Holder CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b26ffeabf8effd18?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Bike Phone Mount" %}
