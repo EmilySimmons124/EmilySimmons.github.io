@@ -7,12 +7,12 @@ header:
 
 gallery:
   - image_path: assets/img/pickleball/Pickleball_angle_pink.jpg
-  - image_path: assets/img/pickleball/Pickleball_edge_guards.jpg
-  - image_path: assets/img/pickleball/Pickleball_side_black.jpg
   - image_path: assets/img/pickleball/Pickleball_no_details.jpg
-  - image_path: assets/img/pickleball/Pickleball_top_black.jpg
   - image_path: assets/img/pickleball/Pickleball_top_blue.jpg
   - image_path: assets/img/pickleball/Pickleball_top_pink.jpg
+  - image_path: assets/img/pickleball/Pickleball_edge_guards.jpg
+  - image_path: assets/img/pickleball/Pickleball_side_black.jpg
+  - image_path: assets/img/pickleball/Pickleball_top_black.jpg
    
 ---
 
