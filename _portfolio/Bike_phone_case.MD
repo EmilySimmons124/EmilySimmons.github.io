@@ -20,6 +20,11 @@ gallery:
   - image_path: assets/img/bike_phone/render_two.jpg
   - image_path: assets/img/bike_phone/Assembly_ladscape.jpg
   - image_path: assets/img/bike_phone/Assembly_portrate.jpg
+  - image_path: assets/img/bike_phone/Detant.jpg
+  - image_path: assets/img/bike_phone/Detant_outside.jpg
+  - image_path: assets/img/bike_phone/Ditent_cover.jpg
+
+
    
 ---
 
