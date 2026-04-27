@@ -23,7 +23,7 @@ gallery:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition to being light, I made the paddle 8.5" wide. A paddle can only be 24" wide plus the length (including the handle). This means that my paddle is only slightly taller than it is wide. This limits my lateral range when playing, but being able to hit the ball is more important than the range at my level. The added width means I will not have to be as precise about how high the racket is when swinging, which should make it easier to hit even if I don't judge the ball's height correctly. 
 ![My Image](/EmilySimmons.github.io/assets/img/pickleball/Pickleball_top_black.jpg){: width="40%" style="display: block; margin: 0 auto;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wanted to keep my paddle light so it would be easy for me to move it when hitting the ball. The paddle weighs only *****, which is considered lightweight for a paddle. This will reduce the power of my swing but make it significantly easier to make last-minute adjustments.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wanted to keep my paddle light so it would be easy for me to move it when hitting the ball. The paddle weighs only 7 oz, which is considered lightweight for a paddle. This will reduce the power of my swing but make it significantly easier to make last-minute adjustments.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Despite being lightweight, my paddle has a center of mass around 8.5" from the base of the handle. This is slightly below the midpoint of the paddle face. This will slightly improve the power of my swing. This comes at the cost of increased muscular load on the small forearm muscles. However, because of my tennis-playing history, reducing additional strain was not a design goal. 
 
