@@ -22,9 +22,15 @@ gallery:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To generate the truck designs, load cases had to be applied to the model's fixed components. The model included two shafts for the wheels, a motor mounting plate, and two bodies for mounting the truck (the kingpin and cup). The table below lists the forces added to the model for different situations. The forces for the motor were calculated for an 8lb motor. The forces on the wheels were calculated to be safe for a rider who weighs 297lb. This weight was chosen because it corresponds to the 95th percentile for men in the US.
 
-TABLE
+| Load Case | Motor Weight (N*mm) | Motor Torque (N*mm) | Weight: Left Axle (N) | Weight: Right Axle (N) |Friction: Left axle (N) |Friction: Right Axle (N)|Motor Driving Force (N)|
+| -------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Turning Left| 95,000   | 8,000 | 1,275 | 200 | 15 | 5 | 318 |
+| Turning Right | 95,000  | 8,000 | 200 | 1,275 |5 | 15 | 318 |
+|Constant Riding | 95,000  | 8,000  | 750 | 750 | 5 | 5 | 318 |
+| Breaking| 95,000   | 0 |  750  | 750 | 5 | 5  | 0 |
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The motor weight and torque were applied as moment forces to the motor mounting plate, the weight in each of the wheel axils was applied as a bearing force, and friction and the driving force were applied as normal forces to the outer face of each axil. The photo below shows the loads applied for the turn left load case. There was also the force of gravity applied at the center of the model (set to 9.81m/s^2)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The motor weight and torque were applied as moment forces to the motor mounting plate, the weight in each of the wheel axles was applied as a bearing force, and friction and the driving force were applied as normal forces to the outer face of each axle. The photo below shows the loads applied for the turn left load case. There was also the force of gravity applied at the center of the model (set to 9.81m/s^2)
 
 ![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/force_applied_example.png){: width="40%" style="display: block; margin: 0 auto;"}
 
