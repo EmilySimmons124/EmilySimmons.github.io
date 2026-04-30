@@ -6,18 +6,30 @@ header:
   teaser: assets/img/bike_phone/Teaser_please_work.jpg
 
 gallery:
-  - image_path: assets/img/bike_phone/Assembly_bottom.jpg
-
-   
+  - image_path: assets/img/skateboard_truck/Alone_fromt.jpeg
+  - image_path: assets/img/skateboard_truck/Alone_side.jpeg
+  - image_path: assets/img/skateboard_truck/Alone_top.jpeg
+  - image_path: assets/img/skateboard_truck/Alone_top_cupdown.jpeg
+  - image_path: assets/img/skateboard_truck/Assembly_front.jpeg
+  - image_path: assets/img/skateboard_truck/Assembly_side.jpeg
+  - image_path: assets/img/skateboard_truck/Standimg_up.jpeg
+  - image_path: assets/img/skateboard_truck/skateboard_truck_rendering.jpg
+  - image_path: assets/img/skateboard_truck/Assembly_tilt.gif
+  - image_path: assets/img/skateboard_truck/Assembly_motor_turn.gif
+  - image_path: assets/img/skateboard_truck/Full_tilt.gif
 ---
 
 # Design Goal
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goal of this project was to create a custom skateboard truck that was smaller than a generic one. To achieve this goal, Fusion 360 generative design was used to create a model of the skateboard truck. Two materials - an aluminum alloy (AlSi10Mg) and a stainless steel alloy (17-4 PH) - were tested in the generative design process. In Fusion, a factor of safety of 2 was used, with the minimum mass as the main goal.
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028110a4e996b141fb04f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811348fa91e1c6b933b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The stainless steel was significantly smaller than the aluminum design. This was expected because, on the whole, stainless steel is much stronger by volume than aluminum. The stainless steel model is 0.11kg heavier than the aluminum one, but it is also 51.5 cubic centimeters smaller, as the aim of this design is to create a small skateboard truck. The stainless steel design was chosen as the better option.
+
+![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Alone_top_cupdown.jpeg){: width="40%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Assembly_front.jpeg){: width="40%" style="display: block; margin: 0 auto;"}
 
 # Load Cases:
 
@@ -25,15 +37,17 @@ gallery:
 
 | Load Case | Motor Weight (N*mm) | Motor Torque (N*mm) | Weight: Left Axle (N) | Weight: Right Axle (N) |Friction: Left axle (N) |Friction: Right Axle (N)|Motor Driving Force (N)|
 | -------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Turning Left| 95,000   | 8,000 | 1,275 | 200 | 15 | 5 | 318 |
-| Turning Right | 95,000  | 8,000 | 200 | 1,275 |5 | 15 | 318 |
-|Constant Riding | 95,000  | 8,000  | 750 | 750 | 5 | 5 | 318 |
-| Breaking| 95,000   | 0 |  750  | 750 | 5 | 5  | 0 |
+| Turning Left| 95,000   | 8,000 | 1,275 | 200 | -15 | -5 | 318 |
+| Turning Right | 95,000  | 8,000 | 200 | 1,275 |-5 | -15 | 318 |
+|Constant Riding | 95,000  | 8,000  | 750 | 750 | -5 | -5 | 318 |
+| Breaking| 95,000   | 0 |  750  | 750 | -5 | -5  | 0 |
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The motor weight and torque were applied as moment forces to the motor mounting plate, the weight in each of the wheel axles was applied as a bearing force, and friction and the driving force were applied as normal forces to the outer face of each axle. The photo below shows the loads applied for the turn left load case. There was also the force of gravity applied at the center of the model (set to 9.81m/s^2)
 
 ![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/force_applied_example.png){: width="40%" style="display: block; margin: 0 auto;"}
+
+![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Full_tilt.gif){: width="40%" style="display: block; margin: 0 auto;"}
 
 
 # Generative Design and Powder Bed Fusion Application:
