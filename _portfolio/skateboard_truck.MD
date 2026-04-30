@@ -2,8 +2,8 @@
 title: "Custom Skateboard Truck"
 excerpt: "A custom skateboard truck created with generitive design"
 header:
-  image: assets/img/bike_phone/Assembly_banner.jpg
-  teaser: assets/img/bike_phone/Teaser_please_work.jpg
+  image: assets/img/skateboard_truck/Assembly_top.jpeg
+  teaser: assets/img/skateboard_truck/Assembly_top.jpeg
 
 gallery:
   - image_path: assets/img/skateboard_truck/Alone_fromt.jpeg
@@ -11,12 +11,12 @@ gallery:
   - image_path: assets/img/skateboard_truck/Alone_top.jpeg
   - image_path: assets/img/skateboard_truck/Alone_top_cupdown.jpeg
   - image_path: assets/img/skateboard_truck/Assembly_front.jpeg
-  - image_path: assets/img/skateboard_truck/Assembly_side.jpeg
   - image_path: assets/img/skateboard_truck/Standimg_up.jpeg
-  - image_path: assets/img/skateboard_truck/skateboard_truck_rendering.jpg
   - image_path: assets/img/skateboard_truck/Assembly_tilt.gif
   - image_path: assets/img/skateboard_truck/Assembly_motor_turn.gif
   - image_path: assets/img/skateboard_truck/Full_tilt.gif
+  - image_path: assets/img/skateboard_truck/skateboard_truck_rendering.jpg
+  - image_path: assets/img/skateboard_truck/Assembly_side.jpeg
 ---
 
 # Design Goal
@@ -28,8 +28,8 @@ gallery:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The stainless steel was significantly smaller than the aluminum design. This was expected because, on the whole, stainless steel is much stronger by volume than aluminum. The stainless steel model is 0.11kg heavier than the aluminum one, but it is also 51.5 cubic centimeters smaller, as the aim of this design is to create a small skateboard truck. The stainless steel design was chosen as the better option.
 
-![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Alone_top_cupdown.jpeg){: width="40%" style="display: block; margin: 0 auto;"}
-![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Assembly_front.jpeg){: width="40%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Alone_top_cupdown.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Assembly_front.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
 
 # Load Cases:
 
@@ -47,7 +47,7 @@ gallery:
 
 ![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/force_applied_example.png){: width="40%" style="display: block; margin: 0 auto;"}
 
-![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Full_tilt.gif){: width="40%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/skateboard_truck/Full_tilt.gif){: width="50%" style="display: block; margin: 0 auto;"}
 
 
 # Generative Design and Powder Bed Fusion Application:
@@ -71,7 +71,7 @@ gallery:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When using generative design, it is important to model all the forces acting on the system. The first step in a generative design should be to identify the forces acting on the system. It could be helpful to draw a free-body diagram, depending on the system's complexity, and identify the forces from it. Another useful step before actually starting generative design modeling is to identify how the forces will affect the system and where additional material is expected. Identifying a general outline of the part's structure lets you check the output model and ensure it makes sense. While a model could still be wrong, this should catch any large errors in the design.
 
 
-{% include gallery caption="Bike Phone Mount" %}
+{% include gallery caption="Skateboard Truck" %}
 
 # Sources
 Markovits, Tamás, and Bence Szederkényi. 2022. "Investigation of generative design for powder bed fusion technology in case of Formula Student race car components using Ti6Al4V alloy." Journal of Manufacturing Processes 80:220-231. doi:10.1016/j.jmapro.2022.05.058. 
