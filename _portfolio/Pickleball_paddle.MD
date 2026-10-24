@@ -1,4 +1,5 @@
 ---
+order: 7
 title: "Custom Pickleball Paddle"
 excerpt: "A fully 3D custom pickelball paddle"
 header:
