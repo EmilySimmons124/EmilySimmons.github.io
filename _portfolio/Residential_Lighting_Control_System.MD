@@ -1,4 +1,5 @@
 ---
+order: 1
 title: "Residential Lighting Control System"
 excerpt: "A custom-built power electronics system for switching lights with a microcontroller/PLC for home automation"
 header:
