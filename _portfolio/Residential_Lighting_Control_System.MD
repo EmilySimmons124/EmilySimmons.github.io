@@ -16,11 +16,19 @@ gallery:
 # Features
 
 * **Entire house automation capabilities.** Capable of switching 72 total lights, fans, floor heating, and appliances. High-voltage and high-current capabilities allow it to switch 120 or 240 volts and up to 25 amps.
+
+![My Image](/EmilySimmons.github.io/assets/img/lighting_banner.png){: width="60%" style="display: block; margin: 0 auto;"}
+
 * **High voltage and high current capabilities.** Able to switch up to 120 times a second. By utilizing pulse-width modulation in the lighting code, lights can be dimmed.
 * **Easily installed, safe, and quiet.** The PCB is designed to be modular (more terminals can be added by adding another board) and compatible with DIN rail mounts. Additionally, the terminals have plug contacts for ease of wiring, and the components are finger-safe to prevent shocks. The PCB also has oversized heat sinks for thermal management, which eliminates the need for a fan. LEDs on the board indicate which lights are switched for ease of diagnostics and troubleshooting.
+
+![My Image](/EmilySimmons.github.io/assets/img/lighting_board_heat.png){: width="50%" style="display: block; margin: 0 auto;"}
+
 * **Over 10 million cycles.** A solid-state switch allows the lifespan of each light controller to exceed 10 million switching cycles.
 * **Minimal power surges during switching.** A zero-crossing STR minimizes power surges when switching.
 * **Custom PCB design for bulk fabrication.** Using a mask stencil and surface-mount solder, boards are easy and relatively inexpensive to produce.
+
+![My Image](/EmilySimmons.github.io/assets/img/lighting_board_no_heat.png){: width="50%" style="display: block; margin: 0 auto;"}
 
 **Bill of Materials**:
 
@@ -41,7 +49,7 @@ gallery:
 
 
 # CAD Model
-<iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b602811b5f540c037fd54a7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-<iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b6028118eb2abb5d160a809?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b602811b5f540c037fd54a7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
+<iframe src="https://duke2531.autodesk360.com/shares/public/SH90d2dQT28d5b6028118eb2abb5d160a809?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
 
 {% include gallery caption="Residential Lighting Control System Gallery" %}
