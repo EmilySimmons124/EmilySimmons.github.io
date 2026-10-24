@@ -1,4 +1,5 @@
 ---
+order: 2
 title: "Custom Skateboard Truck"
 excerpt: "A custom skateboard truck created with generitive design"
 header:
