@@ -1,4 +1,5 @@
 ---
+order: 5
 title: "Multi Material Pliers"
 excerpt: "Multi-material pliers design combining rigid and flexible polymers"
 header:
