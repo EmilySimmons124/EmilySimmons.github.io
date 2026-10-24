@@ -38,16 +38,31 @@ Print-in-place parts are further constrained by material compatibility, particul
 # Project Goals
 The goal of this project was to design and fabricate a functional pair of pliers using two different filament materials. Based on existing examples of 3D-printed pliers, many of which have a very limited jaw range, an additional design goal was to ensure the pliers could grasp a wide range of object sizes.
 
+![My Image](/EmilySimmons.github.io/assets/img/Images new/pliers_one.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
+
 There were two possible approaches to fabricating the pliers: print in place or printing the components as separate parts. Due to limited access to a multi-material 3D printer, the components were printed separately. However, the pliers were still designed to be compatible with a multi-material printer, allowing for fabrication as a single print.
 
 
 
 # Plier Design
 
-* The pliers were designed to be easily assembled and allow for individual components to be replaced. The pliers are composed of four components: two handles, a spring, and a cap. All the components are a press fit together with the cap providing an extra layer of security to hold the spring in place. 
+* The pliers were designed to be easily assembled and allow for individual components to be replaced. The pliers are composed of four components: two handles, a spring, and a cap. All the components are a press fit together with the cap providing an extra layer of security to hold the spring in place.
+
+![My Image](/EmilySimmons.github.io/assets/img/Images new/handle1_two.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/Images new/handle2_one.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
+
 * All the components except the spring are printed from PETG for strength. The spring is printed with TPU to allow it to flex when the pliers are used. The spring is designed as two circles connected by small spokes - similar to a bike wheel. When the pliers are closed the spokes elasticity deforms with the rotation and once pressure is released the spokes return to their initial position, keeping the pliers in an open position when not in use.
-*Another main design consideration was balancing plier size with jaw size. In order to pick up larger objects the spring has to deform more and be larger. The current jaw size is 21mm. However, because the spring plasticly deforms in both directions it is possible to pick up larger objects. The length of the jaws could also be increased to make the jaw size larger. For this specific project this jaw size is sufficient and keeping the spring and jaw length the size they are allows the pliers to be more compact. 
-*Additional adjustments could also be made to the handles. They are currently 95mm long and 25mm wide. Modifying these values could allow for higher torque or a better in hand fit for different users.
+
+![My Image](/EmilySimmons.github.io/assets/img/Images new/spring_one.jpeg){: width="40%" style="display: block; margin: 0 auto;"}
+
+* Another main design consideration was balancing plier size with jaw size. In order to pick up larger objects the spring has to deform more and be larger. The current jaw size is 21mm. However, because the spring plasticly deforms in both directions it is possible to pick up larger objects. The length of the jaws could also be increased to make the jaw size larger. For this specific project this jaw size is sufficient and keeping the spring and jaw length the size they are allows the pliers to be more compact.
+
+![My Image](/EmilySimmons.github.io/assets/img/Adobe Express - Pliers_latching_seitch.gif){: width="30%" style="display: block; margin: 0 auto;"}
+![My Image](/EmilySimmons.github.io/assets/img/Adobe Express - Pliers_surface_mount_LED.gif){: width="30%" style="display: block; margin: 0 auto;"}
+
+* Additional adjustments could also be made to the handles. They are currently 95mm long and 25mm wide. Modifying these values could allow for higher torque or a better in hand fit for different users.
+
+![My Image](/EmilySimmons.github.io/assets/img/Adobe Express - Pliers_motion.gif){: width="30%" style="display: block; margin: 0 auto;"}
 
 
 **Print Slicer Settings**:
@@ -66,7 +81,7 @@ There were two possible approaches to fabricating the pliers: print in place or 
 
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028112fefa199451c7020?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028112fefa199451c7020?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
 
 
 {% include gallery caption="Plier Gallery" %}
