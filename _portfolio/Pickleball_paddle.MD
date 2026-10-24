@@ -44,7 +44,7 @@ gallery:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The paddle was printed in four parts: the face, the handle, the handle cap, and the edge guard. All components were printed with 15% rectangular infill, except for the paddle face, which had 20% infill. The additional infill on the paddle face is to improve the strength, as it will take the majority of the force in a match. The paddle face and handle were printed in PET-G due to its strength. The edge guard and handle cap were printed in PLA, as they are purely cosmetic and easy to replace if they get damaged.
 
 # Paddle CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b9b66bb8307d46ac?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b9b66bb8307d46ac?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
 
 {% include gallery caption="Custom Pickleball Paddle" %}
 
