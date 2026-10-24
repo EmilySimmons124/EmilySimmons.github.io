@@ -57,8 +57,12 @@ gallery:
 1. Using M5 bolts, tighten the mounting clamps around the bike handle and adjust the angle to fit your preference.
 2. Unscrew the phone clamp bolt enough to fit your phone between the two walls of the clamp
 3. Tighten the phone clamp bolt back until your phone is securely held
+
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/Assembly_portrate.jpg){: width="40%" style="display: block; margin: 0 auto;"}
+
+{: start="4"}
 4. To change between portrait and landscape mode, gently twist your phone until you hear it click into position
+
 ![My Image](/EmilySimmons.github.io/assets/img/bike_phone/bike_phone_gif (1).gif){: width="50%" style="display: block; margin: 0 auto;"}
 
 
@@ -66,7 +70,7 @@ gallery:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FFF (Fused Filament Fabrication) was used to make the phone case. Resin printing would have been good for the complicated geometry of the threads. However, given the numerous iterations and deadlines of the project, FFF was the more favorable option due to its accessibility and low prototyping cost. Additionally, the 3D printer with a 4mm nozzle was able to produce well-defined threads. 
 
 # Phone Holder CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b26ffeabf8effd18?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b26ffeabf8effd18?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>{: width="90%" style="display: block; margin: 0 auto;"}
 
 {% include gallery caption="Bike Phone Mount" %}
 
