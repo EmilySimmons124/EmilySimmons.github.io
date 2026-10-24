@@ -22,19 +22,27 @@ search: false
 }
 
 
+/* Project thumbnails: same 4:3 shape on every card (landing page and
+   portfolio page), with each photo centered in its frame */
+.feature__item .archive__item-teaser,
+.grid__item .archive__item-teaser {
+    max-height: none;
+    aspect-ratio: 4 / 3;
 
-/* Center the pickleball paddle thumbnail in project cards (it's a tall photo,
-   so by default only the top of it shows) */
-.archive__item-teaser img[src*="Pickleball_pink_uncroped"] {
-    @include breakpoint($small) {
-        height: 200px;
+    img {
+        width: 100%;
+        height: 100%;
         object-fit: cover;
         object-position: center;
     }
 }
 
-.grid__item .archive__item-teaser img[src*="Pickleball_pink_uncroped"] {
-    @include breakpoint($medium) {
-        height: 120px;
-    }
+/* Pickleball paddle: tall photo, so center on the paddle itself */
+.archive__item-teaser img[src*="Pickleball_pink_uncroped"] {
+    object-position: 50% 28%;
+}
+
+/* Bike phone holder: keep the phone in frame */
+.archive__item-teaser img[src*="Teaser_please_work"] {
+    object-position: 50% 10%;
 }
