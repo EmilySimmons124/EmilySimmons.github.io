@@ -53,6 +53,13 @@ feature_row:
     url: "/portfolio/Pickleball_paddle/"
     btn_label: "View Project"
     btn_class: "btn--primary"
+  - image_path: "assets/img/robotics/robot_climb.jpg"
+    alt: "FIRST Robotics Competition Robot"
+    title: "FIRST Robotics Competition Robot"
+    excerpt: "A student-designed and built robot for the 2024 FIRST Robotics Competition season"
+    url: "/portfolio/robotics/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
