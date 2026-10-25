@@ -20,6 +20,8 @@ I have been extremely fortunate in the resources I have. Many children do not ha
 
 ## Technical Skills
 
+![Skid steer](/EmilySimmons.github.io/assets/img/about/skid_steer.jpg){: width="40%" style="display: block; margin: 0 auto;"}
+
 I have experience operating a wide range of tools used for designing and creating parts, from hand tools to skid steers. Some of my relevant skills are:
 
 * Fused Filament Fabrication (FFF)
