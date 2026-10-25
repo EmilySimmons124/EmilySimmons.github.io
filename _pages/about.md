@@ -9,6 +9,8 @@ Through my school's robotics club, robotics classes, and my resources at home, I
 
 I have been extremely fortunate in the resources I have. Many children do not have the opportunity to play around with engineering that I have had. With these experiences and because of my enthusiasm for science and engineering, I love  spending time inspiring other kids to pursue engineering. Through my own outreach to local elementary and middle schools, as well as DARC SIDE's (my schools robotics club) extensive outreach endeavors I am able to help run workshops to give students a chance to experience the joy STEAM has brought me.
 
+![Skid steer](/EmilySimmons.github.io/assets/img/about/skid_steer.jpg){: width="25%" style="display: block; margin: 0 auto;"}
+
 ## Education
 
 * Vanderbilt University (Aug 2025 - Apr 2029)
@@ -20,14 +22,17 @@ I have been extremely fortunate in the resources I have. Many children do not ha
 
 ## Technical Skills
 
-![Skid steer](/EmilySimmons.github.io/assets/img/about/skid_steer.jpg){: width="40%" style="display: block; margin: 0 auto;"}
-
 I have experience operating a wide range of tools used for designing and creating parts, from hand tools to skid steers. Some of my relevant skills are:
 
-* Fused Filament Fabrication (FFF)
-* Manufacturing - CNC, Lathe
-* Electronics, microcontrollers, and soldering
+* CAD/CAM - Fusion 360, SolidWorks, Onshape
+* Machining - CNC, lathe, mill, router
+* 3D printing
+* CO2 and fiber laser cutters
+* PCB design and fabrication
+* Electronics and soldering
+* Microcontrollers
 * Welding
-* Fusion 360
-* Hydraulic and Pneumatic Operations
-
+* Hydraulic and pneumatic operation
+* Operating heavy machinery
+* Construction
+* Language - Chinese
