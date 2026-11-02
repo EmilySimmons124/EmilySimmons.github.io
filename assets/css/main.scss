@@ -46,3 +46,15 @@ search: false
 .archive__item-teaser img[src*="Teaser_please_work"] {
     object-position: 50% 10%;
 }
+
+/* About page: leave room on the left for the sticky name/photo sidebar so it
+   never covers the text (the .page rule above widens pages site-wide) */
+.about-page .page {
+    @include breakpoint($large) {
+        width: calc(100% - #{$right-sidebar-width-narrow});
+    }
+
+    @include breakpoint($x-large) {
+        width: calc(100% - #{$right-sidebar-width});
+    }
+}
