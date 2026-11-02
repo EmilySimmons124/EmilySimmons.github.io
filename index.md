@@ -63,7 +63,7 @@ feature_row:
   - image_path: "assets/img/other_projects/collage_thumbnail.jpg"
     alt: "Other Small Projects"
     title: "Other Small Projects"
-    excerpt: "A collection of smaller projects, including a microfluidic mold, a self-flying drone, horse jumps, and a light switch locator light"
+    excerpt: "A collection of smaller projects, including a custom phone case, a microfluidic mold, a self-flying drone, horse jumps, and a light switch locator light"
     url: "/portfolio/other_small_projects/"
     btn_label: "View Project"
     btn_class: "btn--primary"
