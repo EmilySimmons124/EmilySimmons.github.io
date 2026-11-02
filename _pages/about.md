@@ -1,6 +1,7 @@
 ---
 
 title: "About Emily Simmons"
+classes: about-page
 
 ---
 ## About Me
